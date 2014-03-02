@@ -5,3 +5,5 @@ access_key = 'xxxxxxxxxxxxxxxxxxxxxxx'
 access_secret = 'xxxxxxxxxxxxxxxxxxxxxxx'
 
 mentions = ['@screenName', '@anotherScreenName']
+
+minInt = 5
