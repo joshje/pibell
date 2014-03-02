@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-api_key = ''
-api_secret = ''
-access_key = ''
-access_secret = ''
+api_key = 'xxxxxxxxxxxxxxxxxxxxxxx'
+api_secret = 'xxxxxxxxxxxxxxxxxxxxxxx'
+access_key = 'xxxxxxxxxxxxxxxxxxxxxxx'
+access_secret = 'xxxxxxxxxxxxxxxxxxxxxxx'
+
+mentions = ['@screenName', '@anotherScreenName']
